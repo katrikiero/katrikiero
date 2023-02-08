@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Katri Kiero @katrikiero
-- 👀 I’m interested in learning coding and first of all testing.
+- 👀 I’m interested in learning coding, databases and testing.
 - 🌱 I’m currently learning Information and communication technology at Raseko school.
 - ✨ I'm allso partisipading to Maaret Pyhäjärvis Testing Specialist training/mentoring program to learn testing. 
-- 💞️ I’m looking to collaborate on testing and all sorts of IT stuff
+- 💞️ I’m looking to collaborate on testing, SQL databases and cyber security.
 - 📫 Reach me by email katruskan@gmail.com
 
 <!---
