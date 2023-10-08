@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Katri Kiero @katrikiero
 - 🌱 I’m currently learning Information and communication technology at Raseko school.
-- ✨ I'm allso partisipading to Maaret Pyhäjärvis Testing Specialist training/mentoring program to learn testing #testingdozen.
-- 💞️ I’m looking to collaborate on testing, SQL databases and cyber security.
+- I´m participading WIT Women in Tech & Google Cybersecurity program.
+- ✨ I've partisipaded to Maaret Pyhäjärvis Testing Specialist training/mentoring program to learn testing #testingdozen.
+- 💞️ I’m looking to collaborate on testing and cyber security.
 - 📫 Reach me via Linkedin
 
 <!---
